@@ -15,3 +15,6 @@ How to use:
     - the reason should be obvious, but if you need an explanation, message me.
 5. Hit Run
 6. The chain is rigged to the spliine curve, so you can move it about by moving the control points
+
+
+**Refer to the attached SS.jpg for a visual explanation.
