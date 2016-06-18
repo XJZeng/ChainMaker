@@ -17,6 +17,6 @@ How to use:
 6. The chain is rigged to the spliine curve, so you can move it about by moving the control points
 
 
-* copy and paste the code from chain_maker.py
+ *copy and paste the code from chain_maker.py
 
 **Refer to the attached SS.jpg for a visual explanation.
